@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# sbl-my-storybook
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Useful to practice with React components + storybook + NPM Publish
+
+
+### `npm i sbl-my-storybook`
+
+### Demo:
+[Storybook Components](https://sandrabl9.github.io/storybook/?path=/story/ui-mylabel--basic)
 
 ## Available Scripts
 

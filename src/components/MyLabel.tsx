@@ -31,3 +31,5 @@ export const MyLabel = ({label= 'No label', size='normal', allCaps = false, colo
         </span>
     );
 };
+
+export default MyLabel;
