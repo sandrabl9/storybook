@@ -1,0 +1,17 @@
+.input {
+    border-radius: 5px;
+    border: 3px solid #646464;
+}
+
+.normal {
+   line-height: 1rem;
+
+}
+
+.medium {
+    line-height: 2rem;
+}
+
+.large {
+    line-height: 3rem;
+}
